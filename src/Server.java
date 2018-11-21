@@ -32,6 +32,12 @@ public class Server extends Thread {
             BufferedWriter bfw = new BufferedWriter(ouw);
             clients.add(bfw);
             nome = msg = bfr.readLine();
+
+            for(BufferedWriter bf : clients) {
+                bf.write("-- novo usuario conectado --");
+                bf.flush();
+            }
+
             while(!"Sair".equalsIgnoreCase(msg) && msg != null)
             {
                 msg = bfr.readLine();
@@ -62,10 +68,6 @@ public class Server extends Thread {
             clients = new ArrayList<BufferedWriter>();
             while(true){
                 Socket con = server.accept();
-                for(BufferedWriter bfw : clients) {
-                    bfw.write("-- novo usuario conectado --\r\n" );
-                    bfw.flush();
-                }
                 Thread t = new Server(con);
                 t.start();
             }
