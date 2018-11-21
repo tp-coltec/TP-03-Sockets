@@ -25,10 +25,10 @@
       </value>
     </option>
   </component>
-  <component name="ProjectKey">
-    <option name="state" value="project://63537948-39a4-48a0-9c97-34259a0fa913" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Android API 25 Platform" project-jdk-type="Android SDK">
-    <output url="file://$PROJECT_DIR$/out" />
+  <component name="ProjectType">
+    <option name="id" value="Android" />
   </component>
 </project>
