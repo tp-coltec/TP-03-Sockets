@@ -27,37 +27,29 @@ public class Server extends Thread {
     public void run(){
         try{
             String msg;
-            OutputStream ou =  this.con.getOutputStream();
+            OutputStream ou = con.getOutputStream();
             Writer ouw = new OutputStreamWriter(ou);
             BufferedWriter bfw = new BufferedWriter(ouw);
             clients.add(bfw);
             nome = msg = bfr.readLine();
-
-            for(BufferedWriter bf : clients) {
-                bf.write("-- novo usuario conectado --");
-                bf.flush();
-            }
+            System.out.println(nome);
 
             while(!"Sair".equalsIgnoreCase(msg) && msg != null)
             {
                 msg = bfr.readLine();
-                sendToAll(bfw, msg);
-                System.out.println(msg);
+                sendToAll(msg);
             }
         }catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    private void sendToAll(BufferedWriter bwSaida, String msg) throws  IOException
+    private void sendToAll(String msg) throws  IOException
     {
-        BufferedWriter bwS;
+        System.out.println(msg);
         for(BufferedWriter bw : clients){
-            bwS = (BufferedWriter)bw;
-            if(!(bwSaida == bwS)){
-                bw.write(nome + ": " + msg+"\r\n");
-                bw.flush();
-            }
+            bw.write(nome + ": " + msg + "\r\n");
+            bw.flush();
         }
     }
 
@@ -65,7 +57,7 @@ public class Server extends Thread {
         try{
             int port = 5000; // change port
             server = new ServerSocket(port);
-            clients = new ArrayList<BufferedWriter>();
+            clients = new ArrayList<>();
             while(true){
                 Socket con = server.accept();
                 Thread t = new Server(con);

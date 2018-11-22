@@ -1,7 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a3a384c-51ee-4c4b-aef8-e026973200ac" name="Default Changelist" comment="" />
+    <list default="true" id="82a2829d-ebf9-4674-a2e2-a0c83f3c8cb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/androidTest/java/com/example/haasi/tp_03/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/ic_all-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/ic_events-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/ic_general-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/ic_oport-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/java/com/example/haasi/tp_03/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/java/com/example/haasi/tp_03/ChatActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/java/com/example/haasi/tp_03/ChatAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/java/com/example/haasi/tp_03/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/java/com/example/haasi/tp_03/MessageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/java/com/example/haasi/tp_03/TP_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/drawable/rounded_rectangle_green.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/drawable/rounded_rectangle_orange.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/layout/activity_chat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/layout/activity_tp_03.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/layout/adapter_chat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/layout/adapter_messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/layout/item_message_received.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/layout/item_message_sent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-anydpi-v26/ic_all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-anydpi-v26/ic_all_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-anydpi-v26/ic_events.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-anydpi-v26/ic_events_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-anydpi-v26/ic_general.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-anydpi-v26/ic_general_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-anydpi-v26/ic_oport.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-anydpi-v26/ic_oport_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_all_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_all_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_events.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_events_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_events_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_general.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_general_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_general_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_oport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_oport_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-hdpi/ic_oport_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_all_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_all_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_events.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_events_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_events_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_general.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_general_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_general_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_oport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_oport_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-mdpi/ic_oport_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_all_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_all_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_events.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_events_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_events_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_general.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_general_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_general_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_oport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_oport_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xhdpi/ic_oport_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_all_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_all_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_events.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_events_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_events_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_general.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_general_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_general_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_oport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_oport_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxhdpi/ic_oport_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_all_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_all_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_events.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_events_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_events_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_general.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_general_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_general_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_oport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_oport_fore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/mipmap-xxxhdpi/ic_oport_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/app/src/test/java/com/example/haasi/tp_03/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_03/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP-03-Sockets/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,55 +142,41 @@
     <session id="-1548422336">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="10" />
-          <entry key="java" value="1627" />
+          <entry key="java" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1627" />
-          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="JAVA" value="81" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-595">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="392">
+              <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,36 +186,16 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GeneralRoom.java" />
-        <option value="$PROJECT_DIR$/src/EventsRoom.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/User.java" />
-        <option value="$PROJECT_DIR$/src/Room.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/Server.java" />
-        <option value="$PROJECT_DIR$/src/Client.java" />
       </list>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="889" />
-    <option name="height" value="745" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -118,6 +213,11 @@
             <path>
               <item name="TP-03-Sockets" type="b2602c69:ProjectViewProjectNode" />
               <item name="TP-03-Sockets" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP-03-Sockets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP-03-Sockets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -128,7 +228,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542807191753" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542850642942" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,50 +242,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Client" />
-      <module name="TP-03-Sockets" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cliente" />
-      <module name="TP-03-Sockets" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Server" />
       <module name="TP-03-Sockets" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Room" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Room" />
-      <module name="TP-03-Sockets" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Room" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Cliente" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Cliente" />
-        <item itemvalue="Application.Room" />
+        <item itemvalue="Application.Server" />
       </list>
     </recent_temporary>
   </component>
@@ -194,11 +261,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1a3a384c-51ee-4c4b-aef8-e026973200ac" name="Default Changelist" comment="" />
-      <created>1542410818642</created>
+      <changelist id="82a2829d-ebf9-4674-a2e2-a0c83f3c8cb5" name="Default Changelist" comment="" />
+      <created>1542838031806</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542410818642</updated>
+      <updated>1542838031806</updated>
     </task>
     <servers />
   </component>
@@ -206,13 +273,17 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13086233" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32850242" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
@@ -220,113 +291,31 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32850242" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32850242" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13161875" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32850242" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/EventsRoom.java" />
-    <entry file="file://$PROJECT_DIR$/src/Room.java" />
-    <entry file="file://$PROJECT_DIR$/src/GeneralRoom.java" />
-    <entry file="file://$PROJECT_DIR$/src/User.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1007#1008#0" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1150#1151#0" expanded="true" />
-            <element signature="e#1196#1197#0" expanded="true" />
-            <element signature="e#1226#1227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="392">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
